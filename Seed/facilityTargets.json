@@ -1,7 +1,7 @@
 [
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": "4,978",
     "DailyProduction": 0,
@@ -10,7 +10,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": "3,236",
     "DailyProduction": 0,
@@ -19,7 +19,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": "1,596",
     "DailyProduction": 0,
@@ -28,7 +28,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": "1,475",
     "DailyProduction": 0,
@@ -37,7 +37,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
@@ -46,8 +46,8 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type O",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -55,8 +55,8 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type A",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -64,8 +64,8 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type B",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -73,7 +73,7 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": "4,978",
     "DailyProduction": 0,
@@ -82,7 +82,7 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": "3,236",
     "DailyProduction": 0,
@@ -91,7 +91,7 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": "1,596",
     "DailyProduction": 0,
@@ -100,7 +100,7 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": "1,475",
     "DailyProduction": 0,
@@ -109,7 +109,7 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
@@ -118,8 +118,8 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type O",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -127,8 +127,8 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type A",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -136,8 +136,8 @@
   },
   {
     "SiteLocation": "Passionate Plasma",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type B",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -145,7 +145,7 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": "4,978",
     "DailyProduction": 0,
@@ -154,7 +154,7 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": "3,236",
     "DailyProduction": 0,
@@ -163,7 +163,7 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": "1,596",
     "DailyProduction": 0,
@@ -172,7 +172,7 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": "1,475",
     "DailyProduction": 0,
@@ -181,7 +181,7 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
+    "Week": "9/11 to 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
@@ -190,8 +190,8 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type O",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -199,8 +199,8 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type A",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
     "GapToDate ": 0,
@@ -208,8 +208,8 @@
   },
   {
     "SiteLocation": "Blazor Bloodstock",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type B",
+    "Week": "9/11 to 9/17",
+    "Product": "Scryo to Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
     "GapToDate ": 0,
