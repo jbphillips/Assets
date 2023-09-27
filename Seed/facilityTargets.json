@@ -1,7 +1,7 @@
 [
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 to 9/17",
+    "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
     "DailyProduction": 0,
@@ -10,7 +10,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 to 9/17",
+    "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
     "DailyProduction": 0,
@@ -19,7 +19,7 @@
   },
   {
     "SiteLocation": "HemRacing",
-    "Week": "9/11 to 9/17",
+    "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
     "DailyProduction": 0,
