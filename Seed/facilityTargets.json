@@ -5,8 +5,7 @@
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -14,8 +13,7 @@
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -23,8 +21,7 @@
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -32,8 +29,7 @@
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -41,8 +37,7 @@
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -50,8 +45,7 @@
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -59,8 +53,7 @@
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "HemRacing",
@@ -68,8 +61,7 @@
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -77,8 +69,7 @@
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -86,8 +77,7 @@
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -95,8 +85,7 @@
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -104,8 +93,7 @@
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -113,8 +101,7 @@
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -122,8 +109,7 @@
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -131,8 +117,7 @@
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Passionate Plasma",
@@ -140,8 +125,7 @@
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -149,8 +133,7 @@
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -158,8 +141,7 @@
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -167,8 +149,7 @@
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -176,8 +157,7 @@
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -185,8 +165,7 @@
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -194,8 +173,7 @@
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -203,8 +181,7 @@
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "Blazor Bloodstock",
@@ -212,7 +189,6 @@
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
-    "GapToDate ": 0,
-    "Image": ""
+    "GapToDate ": 0
   }
 ]
