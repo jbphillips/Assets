@@ -1,6 +1,6 @@
 [
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
@@ -8,7 +8,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
@@ -16,7 +16,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
@@ -24,7 +24,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
@@ -32,7 +32,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
@@ -40,7 +40,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
@@ -48,7 +48,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
@@ -56,7 +56,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Dedham, MA",
+    "SiteLocation": "HemRacing",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
@@ -64,7 +64,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
@@ -72,7 +72,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
@@ -80,7 +80,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
@@ -88,7 +88,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
@@ -96,7 +96,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
@@ -104,7 +104,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
@@ -112,7 +112,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
@@ -120,83 +120,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type B",
-    "WeeklyTargets": 9,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-
-  "SiteLocation",
-  :,
-  "West Henrietta, NY",
-  "Week",
-  :,
-  "9/11 - 9/17",
-  "Product",
-  :,
-  "TotalViableRBC",
-  "WeeklyTargets",
-  :,
-  4978,
-  "DailyProduction",
-  :,
-  0,
-  "GapToDate ",
-  :,
-  0,
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "Estimated TRALI Safe",
-    "WeeklyTargets": 3256,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "Timed Potential (RBC)",
-    "WeeklyTargets": 1596,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "FStage Cryo Production",
-    "WeeklyTargets": 1475,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "SCRYO Production Plan",
-    "WeeklyTargets": 60,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type O",
-    "WeeklyTargets": 20,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
-    "Week": "9/11 - 9/17",
-    "Product": "Scryo - Type A",
-    "WeeklyTargets": 20,
-    "DailyProduction": 0,
-    "GapToDate ": 0
-  },
-  {
-    "SiteLocation": "West Henrietta, NY",
+    "SiteLocation": "Passionate Plasma",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
@@ -204,7 +128,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": 4978,
@@ -212,7 +136,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 3256,
@@ -220,7 +144,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1596,
@@ -228,7 +152,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1475,
@@ -236,7 +160,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 60,
@@ -244,7 +168,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
     "WeeklyTargets": 20,
@@ -252,7 +176,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
     "WeeklyTargets": 20,
@@ -260,7 +184,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Great Falls, MT",
+    "SiteLocation": "Blazor Bloodstock",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
