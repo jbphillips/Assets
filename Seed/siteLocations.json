@@ -64,7 +64,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
     "WeeklyTargets": 3243,
@@ -72,7 +72,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
     "WeeklyTargets": 2200,
@@ -80,7 +80,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
     "WeeklyTargets": 1333,
@@ -88,7 +88,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
     "WeeklyTargets": 1211,
@@ -96,7 +96,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
     "WeeklyTargets": 40,
@@ -104,7 +104,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
     "WeeklyTargets": 15,
@@ -112,7 +112,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
     "WeeklyTargets": 15,
@@ -120,7 +120,7 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland OH",
+    "SiteLocation": "Cleveland, OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
