@@ -64,94 +64,82 @@
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
-    "WeeklyTargets": 4978,
+    "WeeklyTargets": 3243,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
-    "WeeklyTargets": 3256,
+    "WeeklyTargets": 2200,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
-    "WeeklyTargets": 1596,
+    "WeeklyTargets": 1333,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
-    "WeeklyTargets": 1475,
+    "WeeklyTargets": 1211,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
-    "WeeklyTargets": 60,
+    "WeeklyTargets": 40,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 15,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 15,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
   {
-    "SiteLocation": "Cleveland, OH",
+    "SiteLocation": "Cleveland OH",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
     "WeeklyTargets": 9,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
-
-  "SiteLocation",
-  :,
-  "West Henrietta, NY",
-  "Week",
-  :,
-  "9/11 - 9/17",
-  "Product",
-  :,
-  "TotalViableRBC",
-  "WeeklyTargets",
-  :,
-  4978,
-  "DailyProduction",
-  :,
-  0,
-  "GapToDate ",
-  :,
-  0,
+  {
+    "SiteLocation": "West Henrietta, NY",
+    "Week": "9/11 - 9/17",
+    "Product": "TotalViableRBC",
+    "WeeklyTargets": 6123,
+    "DailyProduction": 0,
+    "GapToDate ": 0
   },
   {
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
-    "WeeklyTargets": 3256,
+    "WeeklyTargets": 3497,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -159,7 +147,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
-    "WeeklyTargets": 1596,
+    "WeeklyTargets": 2096,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -167,7 +155,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
-    "WeeklyTargets": 1475,
+    "WeeklyTargets": 1995,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -175,7 +163,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
-    "WeeklyTargets": 60,
+    "WeeklyTargets": 80,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -183,7 +171,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 40,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -191,7 +179,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 40,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -199,7 +187,7 @@
     "SiteLocation": "West Henrietta, NY",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
-    "WeeklyTargets": 9,
+    "WeeklyTargets": 17,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -207,7 +195,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "TotalViableRBC",
-    "WeeklyTargets": 4978,
+    "WeeklyTargets": 2549,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -215,7 +203,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "Estimated TRALI Safe",
-    "WeeklyTargets": 3256,
+    "WeeklyTargets": 1245,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -223,7 +211,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "Timed Potential (RBC)",
-    "WeeklyTargets": 1596,
+    "WeeklyTargets": 1466,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -231,7 +219,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "FStage Cryo Production",
-    "WeeklyTargets": 1475,
+    "WeeklyTargets": 1188,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -239,7 +227,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "SCRYO Production Plan",
-    "WeeklyTargets": 60,
+    "WeeklyTargets": 44,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -247,7 +235,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type O",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 35,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -255,7 +243,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type A",
-    "WeeklyTargets": 20,
+    "WeeklyTargets": 12,
     "DailyProduction": 0,
     "GapToDate ": 0
   },
@@ -263,7 +251,7 @@
     "SiteLocation": "Great Falls, MT",
     "Week": "9/11 - 9/17",
     "Product": "Scryo - Type B",
-    "WeeklyTargets": 9,
+    "WeeklyTargets": 6,
     "DailyProduction": 0,
     "GapToDate ": 0
   }
